@@ -1,4 +1,4 @@
-package quanLy;
+package quanLy2;
 
 import java.util.Scanner;
 
